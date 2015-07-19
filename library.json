@@ -1,0 +1,2390 @@
+{
+  "Abilene Public Library": {
+    "city": "Abilene",
+    "address": "209 Nw 4th",
+    "zip_code": "67410",
+    "phone_no": "(785) 263-3082"
+  },
+  "Agra-F Lee Doctor Library": {
+    "city": "Agra",
+    "address": "222 Main",
+    "zip_code": "67621",
+    "phone_no": "(785) 638-2471"
+  },
+  "F. Lee Doctor Public Library, Agra": {
+    "city": "Agra",
+    "address": "330 Main",
+    "zip_code": "",
+    "phone_no": "(913) 638-2444"
+  },
+  "Lyon County Library Dist. 1": {
+    "city": "Allen",
+    "address": "421 Main",
+    "zip_code": "66833",
+    "phone_no": "(620) 528-3451"
+  },
+  "Alma Branch Library": {
+    "city": "Alma",
+    "address": "115 West 3rd",
+    "zip_code": "",
+    "phone_no": "(785) 765-3647"
+  },
+  "Almena City Library": {
+    "city": "Almena",
+    "address": "415 Main",
+    "zip_code": "67622",
+    "phone_no": "(785) 669-2336"
+  },
+  "Alta Vista Mini Branch": {
+    "city": "Alta Vista",
+    "address": "310 Center",
+    "zip_code": "",
+    "phone_no": "(785) 499-5542"
+  },
+  "Altamont Public Library": {
+    "city": "Altamont",
+    "address": "407 Huston Ave",
+    "zip_code": "67330",
+    "phone_no": "(620) 784-5530"
+  },
+  "Altoona Public Library": {
+    "city": "Altoona",
+    "address": "713 Main St.",
+    "zip_code": "",
+    "phone_no": "(620) 568-5415"
+  },
+  "Americus Township Library": {
+    "city": "Americus",
+    "address": "710 Main",
+    "zip_code": "66835",
+    "phone_no": "(620) 443-5503"
+  },
+  "Andale District Library": {
+    "city": "Andale",
+    "address": "328 Main St",
+    "zip_code": "67001",
+    "phone_no": "(316) 444-2363"
+  },
+  "Andover Public Library": {
+    "city": "Andover",
+    "address": "1511 E. Central",
+    "zip_code": "67002",
+    "phone_no": "(316) 558-3500"
+  },
+  "Anthony Public Library": {
+    "city": "Anthony",
+    "address": "624 E. Main St.",
+    "zip_code": "67003",
+    "phone_no": "(620) 842-5344"
+  },
+  "Dixon Township Library": {
+    "city": "Argonia",
+    "address": "120 W Walnut",
+    "zip_code": "67004",
+    "phone_no": "(620) 435-6979"
+  },
+  "Arkansas City Public Library": {
+    "city": "Arkansas City",
+    "address": "120 E. 5th Avenue",
+    "zip_code": "67005",
+    "phone_no": "(620) 442-1280"
+  },
+  "Arlington City Library": {
+    "city": "Arlington",
+    "address": "111 E. Main",
+    "zip_code": "67514",
+    "phone_no": "(620) 538-2471"
+  },
+  "Arma City Library": {
+    "city": "Arma",
+    "address": "508 E. Washington Street",
+    "zip_code": "66712",
+    "phone_no": "(620) 347-4811"
+  },
+  "Ashland Library": {
+    "city": "Ashland",
+    "address": "604 Main",
+    "zip_code": "67831",
+    "phone_no": "(620) 635-2589"
+  },
+  "Atchison Library": {
+    "city": "Atchison",
+    "address": "401 Kansas Avenue",
+    "zip_code": "66002",
+    "phone_no": "(913) 367-1902"
+  },
+  "Attica City Library": {
+    "city": "Attica",
+    "address": "125 North Main",
+    "zip_code": "67009",
+    "phone_no": "(620) 254-7767"
+  },
+  "Atwood Public Library": {
+    "city": "Atwood",
+    "address": "102 S. 6th St.",
+    "zip_code": "67730",
+    "phone_no": "(785) 626-3805"
+  },
+  "Augusta Public Library": {
+    "city": "Augusta",
+    "address": "1609 State St.",
+    "zip_code": "67010",
+    "phone_no": "(316) 775-2681"
+  },
+  "Axtell Public Library": {
+    "city": "Axtell",
+    "address": "401 Maple",
+    "zip_code": "66403",
+    "phone_no": "(785) 736-2858"
+  },
+  "Baldwin City Library": {
+    "city": "Baldwin City",
+    "address": "800 7th St.",
+    "zip_code": "66006",
+    "phone_no": "(785) 594-3411"
+  },
+  "Basehor Community Library, Dist 2, Lv. Co.": {
+    "city": "Basehor",
+    "address": "1400 158th Street",
+    "zip_code": "66007",
+    "phone_no": "(913) 724-2828"
+  },
+  "Johnston Public Library": {
+    "city": "Baxter Springs",
+    "address": "210 W. 10th St.",
+    "zip_code": "66713",
+    "phone_no": "(620) 856-5591"
+  },
+  "Belle Plaine Public Library": {
+    "city": "Belle Plaine",
+    "address": "222 W. 5th",
+    "zip_code": "67013",
+    "phone_no": "(620) 488-3431"
+  },
+  "Belleville Public Library": {
+    "city": "Belleville",
+    "address": "1327 19th Street",
+    "zip_code": "66935",
+    "phone_no": "(785) 527-5305"
+  },
+  "Port Library": {
+    "city": "Beloit",
+    "address": "311 W. Main",
+    "zip_code": "67420",
+    "phone_no": "(785) 738-3936"
+  },
+  "Bird City Public Library": {
+    "city": "Bird City",
+    "address": "110 East 4th",
+    "zip_code": "67731",
+    "phone_no": "(785) 734-2203"
+  },
+  "Bison Community Library": {
+    "city": "Bison",
+    "address": "202 Main",
+    "zip_code": "67520",
+    "phone_no": "(785) 356-4803"
+  },
+  "Library District 3 Of Linn County, Blue Moun": {
+    "city": "Blue Mound",
+    "address": "po box 13",
+    "zip_code": "",
+    "phone_no": "(913) 756-2614"
+  },
+  "Linn County Library Dist 3": {
+    "city": "Blue Mound",
+    "address": "316 E. Main St",
+    "zip_code": "66010",
+    "phone_no": "(913) 756-2628"
+  },
+  "Blue Rapids Public Library": {
+    "city": "Blue Rapids",
+    "address": "14 Public Square",
+    "zip_code": "66411",
+    "phone_no": "(785) 363-7709"
+  },
+  "Bonner Springs City Library": {
+    "city": "Bonner Springs",
+    "address": "200 E. Third Street",
+    "zip_code": "66012",
+    "phone_no": "(913) 441-2665"
+  },
+  "Bronson Public Library": {
+    "city": "Bronson",
+    "address": "509 Clay",
+    "zip_code": "66716",
+    "phone_no": "(620) 939-4910"
+  },
+  "Brownell Public Library": {
+    "city": "Brownell",
+    "address": "201 S. Sixth Street",
+    "zip_code": "67521",
+    "phone_no": ""
+  },
+  "Bucklin Public Library": {
+    "city": "Bucklin",
+    "address": "201 N. Main",
+    "zip_code": "67834",
+    "phone_no": "(620) 826-3223"
+  },
+  "Buhler Public Library": {
+    "city": "Buhler",
+    "address": "121 N. Main St.",
+    "zip_code": "67522",
+    "phone_no": "(620) 543-2241"
+  },
+  "Burdett Community Library": {
+    "city": "Burdett",
+    "address": "207 Elm Street",
+    "zip_code": "",
+    "phone_no": "(316) 525-6588"
+  },
+  "Burlingame Community Library": {
+    "city": "Burlingame",
+    "address": "122 W. Santa Fe Ave",
+    "zip_code": "66413",
+    "phone_no": "(785) 654-3400"
+  },
+  "Coffey County Library": {
+    "city": "Burlington",
+    "address": "410 Juniatta Street",
+    "zip_code": "66839",
+    "phone_no": "(620) 364-2010"
+  },
+  "Burns Public Library": {
+    "city": "Burns",
+    "address": "104 North Washington Ave",
+    "zip_code": "66840",
+    "phone_no": "(620) 726-5717"
+  },
+  "Burr Oak Community Library": {
+    "city": "Burr Oak",
+    "address": "221 A Main Street",
+    "zip_code": "66936",
+    "phone_no": "(785) 647-5597"
+  },
+  "Burrton Public Library": {
+    "city": "Burrton",
+    "address": "121 N. Burrton Ave",
+    "zip_code": "67020",
+    "phone_no": "(316) 463-7902"
+  },
+  "Ruth Dole Memorial Library": {
+    "city": "Burrton Ks",
+    "address": "121 N Burrton",
+    "zip_code": "67020",
+    "phone_no": "(620) 463-7902"
+  },
+  "Farmer Township Community Library": {
+    "city": "Bushton",
+    "address": "",
+    "zip_code": "67427",
+    "phone_no": "(620) 562-3352"
+  },
+  "Caldwell Public Library": {
+    "city": "Caldwell",
+    "address": "8 N. Osage",
+    "zip_code": "67022",
+    "phone_no": "(620) 845-6879"
+  },
+  "Caney City Library": {
+    "city": "Caney",
+    "address": "100 N. Ridgeway",
+    "zip_code": "67333",
+    "phone_no": "(620) 879-5341"
+  },
+  "Canton Township": {
+    "city": "Canton",
+    "address": "200 N Main",
+    "zip_code": "67428",
+    "phone_no": "(620) 628-4349"
+  },
+  "Carbondale City Library": {
+    "city": "Carbondale",
+    "address": "234 Main Street",
+    "zip_code": "66414",
+    "phone_no": "(785) 836-7638"
+  },
+  "Cawker City Public Library": {
+    "city": "Cawker City",
+    "address": "802 Locust",
+    "zip_code": "67430",
+    "phone_no": "(785) 781-4925"
+  },
+  "Cedar Vale Memorial Library": {
+    "city": "Cedar Vale",
+    "address": "608 Cedar",
+    "zip_code": "67024",
+    "phone_no": "(620) 758-2598"
+  },
+  "Centralia Community Library": {
+    "city": "Centralia",
+    "address": "520 4th Street",
+    "zip_code": "66415",
+    "phone_no": "(785) 857-3331"
+  },
+  "Chanute Public Library": {
+    "city": "Chanute",
+    "address": "111 N. Lincoln Ave.",
+    "zip_code": "66720",
+    "phone_no": "(620) 431-3820"
+  },
+  "Chapman Public Library": {
+    "city": "Chapman",
+    "address": "402 N. Marshall",
+    "zip_code": "67431",
+    "phone_no": "(785) 922-6548"
+  },
+  "Cheney Public Library": {
+    "city": "Cheney",
+    "address": "203 N. Main",
+    "zip_code": "67025",
+    "phone_no": "(316) 542-3331"
+  },
+  "Cherryvale Public Library": {
+    "city": "Cherryvale",
+    "address": "329 East Main",
+    "zip_code": "67335",
+    "phone_no": "(620) 336-3460"
+  },
+  "Chetopa City Library": {
+    "city": "Chetopa",
+    "address": "312 Maple",
+    "zip_code": "67336",
+    "phone_no": "(620) 236-7194"
+  },
+  "Cimarron City Library": {
+    "city": "Cimarron",
+    "address": "120 N. Main",
+    "zip_code": "",
+    "phone_no": "(316) 855-3808"
+  },
+  "Goddard Public Library": {
+    "city": "City Of Goddard",
+    "address": "201 N. Main",
+    "zip_code": "67052",
+    "phone_no": "(316) 794-8771"
+  },
+  "Lansing Community Library": {
+    "city": "Lansing",
+    "address": "108 S. 2nd Street",
+    "zip_code": "",
+    "phone_no": "(913) 727-2929"
+  },
+  "Independent Township": {
+    "city": "Claflin",
+    "address": "108 Main",
+    "zip_code": "67525",
+    "phone_no": "(620) 587-3488"
+  },
+  "Clay Center Carnegie Library": {
+    "city": "Clay Center",
+    "address": "706 6 St",
+    "zip_code": "67432",
+    "phone_no": "(785) 632-3889"
+  },
+  "Clearwater Public Library": {
+    "city": "Clearwater",
+    "address": "109 E. Ross",
+    "zip_code": "67026",
+    "phone_no": "(620) 584-6474"
+  },
+  "Clifton Public Library": {
+    "city": "Clifton",
+    "address": "104 E. Parallel",
+    "zip_code": "66937",
+    "phone_no": "(785) 455-2222"
+  },
+  "Randolph-Decker Pub. Lib.": {
+    "city": "Clyde .",
+    "address": "107 S Green St.",
+    "zip_code": "66938",
+    "phone_no": "(785) 446-3563"
+  },
+  "Coffeyville Public Library": {
+    "city": "Coffeyville",
+    "address": "311 W Tenth Street",
+    "zip_code": "67337",
+    "phone_no": "(620) 251-1370"
+  },
+  "Colby-Pioneer Memorial Library": {
+    "city": "Colby",
+    "address": "375 West 4th Street",
+    "zip_code": "67701",
+    "phone_no": "(785) 460-4470"
+  },
+  "Pioneer Memorial Library, Colby": {
+    "city": "Colby",
+    "address": "375 W. 4th St.",
+    "zip_code": "",
+    "phone_no": "(913) 462-7563"
+  },
+  "Coldwater-Wilmore Regional Library": {
+    "city": "Coldwater",
+    "address": "221 E.Main",
+    "zip_code": "67029",
+    "phone_no": "(620) 582-2333"
+  },
+  "Colony City Library": {
+    "city": "Colony",
+    "address": "339 Cherry Street",
+    "zip_code": "66015",
+    "phone_no": "(620) 852-3530"
+  },
+  "Columbus Public Library": {
+    "city": "Columbus",
+    "address": "205 N. Kansas",
+    "zip_code": "66725",
+    "phone_no": "(620) 429-2086"
+  },
+  "Colwich Community Library": {
+    "city": "Colwich",
+    "address": "432 W Colwich",
+    "zip_code": "67030",
+    "phone_no": "(316) 796-1521"
+  },
+  "Frank Carlson Library": {
+    "city": "Concordia",
+    "address": "702 Broadway",
+    "zip_code": "66901",
+    "phone_no": "(785) 243-2250"
+  },
+  "Conway Springs City Library": {
+    "city": "Conway Springs",
+    "address": "210 W. Springs Ave",
+    "zip_code": "67031",
+    "phone_no": "(620) 456-2859"
+  },
+  "Copeland Public Library": {
+    "city": "Copeland",
+    "address": "109 Santa Fe",
+    "zip_code": "67837",
+    "phone_no": "(620) 668-5559"
+  },
+  "Corning City Library": {
+    "city": "Corning",
+    "address": "6621 5th St.",
+    "zip_code": "66417",
+    "phone_no": "(785) 868-2755"
+  },
+  "Burnley Memorial Library": {
+    "city": "Cottonwood Falls",
+    "address": "401 Oak Street",
+    "zip_code": "",
+    "phone_no": "(620) 273-8588"
+  },
+  "Cottonwood Falls-Burnley Memorial": {
+    "city": "Cottonwood Falls",
+    "address": "405 N. Oak",
+    "zip_code": "66845",
+    "phone_no": "(620) 273-8588"
+  },
+  "Council Grove Public Library": {
+    "city": "Council Grove",
+    "address": "829 W. Main St.",
+    "zip_code": "66846",
+    "phone_no": "(620) 767-5716"
+  },
+  "Courtland Community Library": {
+    "city": "Courtland",
+    "address": "403 Main St.",
+    "zip_code": "66939",
+    "phone_no": "(785) 374-4260"
+  },
+  "Hillcrest Library": {
+    "city": "Cuba",
+    "address": "804 Bristol Street",
+    "zip_code": "66940",
+    "phone_no": "(785) 729-3355"
+  },
+  "Cunningham Public Library": {
+    "city": "Cunningham",
+    "address": "105 North Main",
+    "zip_code": "67035",
+    "phone_no": "(620) 298-3163"
+  },
+  "Delphos Public Library": {
+    "city": "Delphos",
+    "address": "114 W. 2nd",
+    "zip_code": "67436",
+    "phone_no": "(785) 523-4668"
+  },
+  "Derby Public Library": {
+    "city": "Derby",
+    "address": "611 N Mulberry Rd, Suite 200",
+    "zip_code": "67037",
+    "phone_no": "(316) 788-0760"
+  },
+  "Johnson County Library, Desoto": {
+    "city": "Desoto",
+    "address": "33145 West 83rd Street",
+    "zip_code": "",
+    "phone_no": "(913) 583-3106"
+  },
+  "Dighton-Lane County Library": {
+    "city": "Dighton",
+    "address": "144 South Lane",
+    "zip_code": "67839",
+    "phone_no": "(620) 397-2808"
+  },
+  "Lane County Library, Dighton": {
+    "city": "Dighton",
+    "address": "144 S. Lane",
+    "zip_code": "",
+    "phone_no": "(316) 397-5829"
+  },
+  "Dodge City Public Library": {
+    "city": "Dodge City",
+    "address": "1001 N. Second Ave",
+    "zip_code": "67801",
+    "phone_no": "(620) 225-0248"
+  },
+  "Southwest Kansas Library System": {
+    "city": "Dodge City",
+    "address": "100 Military Avenue Suite 210",
+    "zip_code": "67801",
+    "phone_no": "(620) 225-1231"
+  },
+  "Douglass Public Library": {
+    "city": "Douglass",
+    "address": "319 S. Forest",
+    "zip_code": "67039",
+    "phone_no": "(316) 746-2600"
+  },
+  "Downs Carnegie Library": {
+    "city": "Downs",
+    "address": "504 Morgan Ave",
+    "zip_code": "67437",
+    "phone_no": "(785) 454-3821"
+  },
+  "Dwight Public Library": {
+    "city": "Dwight",
+    "address": "637 Main",
+    "zip_code": "66849",
+    "phone_no": "(785) 482-3804"
+  },
+  "Edgerton Library": {
+    "city": "Edgerton",
+    "address": "319 E. Nelson",
+    "zip_code": "",
+    "phone_no": "(913) 893-6720"
+  },
+  "Edna Public Library": {
+    "city": "Edna",
+    "address": "105 N Delaware",
+    "zip_code": "67342",
+    "phone_no": "(620) 922-3470"
+  },
+  "Effingham Community Library": {
+    "city": "Effingham",
+    "address": "414 Main Street",
+    "zip_code": "66023",
+    "phone_no": "(913) 833-5881"
+  },
+  "Bradford Memorial Library": {
+    "city": "El Dorado",
+    "address": "611 S. Washington",
+    "zip_code": "67042",
+    "phone_no": "(316) 321-3363"
+  },
+  "Elkhart-Morton County Library": {
+    "city": "Elkhart",
+    "address": "410 Kansas",
+    "zip_code": "67950",
+    "phone_no": "(620) 697-2025"
+  },
+  "Morton County Library, Rolla Extension": {
+    "city": "Elkhart",
+    "address": "410 Kansas",
+    "zip_code": "",
+    "phone_no": "(620) 593-4320"
+  },
+  "Ellinwood School Community Library": {
+    "city": "Ellinwood",
+    "address": "210 N. Schiller",
+    "zip_code": "67526",
+    "phone_no": "(620) 564-2306"
+  },
+  "Ellis Public Library": {
+    "city": "Ellis",
+    "address": "907 Washington",
+    "zip_code": "67637",
+    "phone_no": "(785) 726-3464"
+  },
+  "J.H. Robbins Memorial Library": {
+    "city": "Ellsworth",
+    "address": "219 N. Lincoln Ave.",
+    "zip_code": "67439",
+    "phone_no": "(785) 472-3969"
+  },
+  "Elwood Branch Library": {
+    "city": "Elwood",
+    "address": "410 N 9th",
+    "zip_code": "",
+    "phone_no": "(913) 365-2409"
+  },
+  "Emporia Public Library": {
+    "city": "Emporia",
+    "address": "110 E. Sixth Avenue",
+    "zip_code": "66801",
+    "phone_no": "(620) 340-6462"
+  },
+  "Enterprise Public Library": {
+    "city": "Enterprise",
+    "address": "123 S. S Factory",
+    "zip_code": "67441",
+    "phone_no": "(785) 263-8351"
+  },
+  "Erie City Public Library": {
+    "city": "Erie",
+    "address": "204 S. Butler",
+    "zip_code": "66733",
+    "phone_no": "(620) 244-5119"
+  },
+  "Eskridge Branch": {
+    "city": "Eskridge",
+    "address": "115 S. Main",
+    "zip_code": "",
+    "phone_no": "(785) 449-2296"
+  },
+  "Eudora Public Library": {
+    "city": "Eudora",
+    "address": "14 E 9th St.",
+    "zip_code": "66025",
+    "phone_no": "(785) 542-2496"
+  },
+  "Eureka Public Library": {
+    "city": "Eureka",
+    "address": "606 North Main",
+    "zip_code": "67045",
+    "phone_no": "(620) 583-6222"
+  },
+  "Barnes Reading Room": {
+    "city": "Everest",
+    "address": "640 Main Street",
+    "zip_code": "66424",
+    "phone_no": "(785) 548-7733"
+  },
+  "Fall River Public Library": {
+    "city": "Fall River",
+    "address": "314 Merchant Ave.",
+    "zip_code": "67047",
+    "phone_no": "(620) 658-4973"
+  },
+  "Florence Public Library": {
+    "city": "Florence",
+    "address": "324 Main St.",
+    "zip_code": "66851",
+    "phone_no": "(620) 878-4649"
+  },
+  "Ford City Library": {
+    "city": "Ford",
+    "address": "701 E 8th St",
+    "zip_code": "67842",
+    "phone_no": "(620) 369-2820"
+  },
+  "Formoso Public Library": {
+    "city": "Formoso",
+    "address": "204 Main",
+    "zip_code": "66942",
+    "phone_no": "(785) 794-2424"
+  },
+  "Combined Arms Research Library": {
+    "city": "Fort Leavenworth",
+    "address": "250 Gibbon Ave",
+    "zip_code": "",
+    "phone_no": "(913) 758-3053"
+  },
+  "Fort Scott Public Library": {
+    "city": "Fort Scott",
+    "address": "201 S. National",
+    "zip_code": "66701",
+    "phone_no": "(620) 223-2882"
+  },
+  "Fowler Public Library": {
+    "city": "Fowler",
+    "address": "510 Main",
+    "zip_code": "67844",
+    "phone_no": "(620) 646-5550"
+  },
+  "Frankfort City Library": {
+    "city": "Frankfort",
+    "address": "104 E. Second St",
+    "zip_code": "66427",
+    "phone_no": "(785) 292-4320"
+  },
+  "Fredonia Public Library": {
+    "city": "Fredonia",
+    "address": "807 Jefferson St.",
+    "zip_code": "66736",
+    "phone_no": "(620) 378-2863"
+  },
+  "Galena Public Library": {
+    "city": "Galena",
+    "address": "315 W. 7th Street",
+    "zip_code": "66739",
+    "phone_no": "(620) 793-5132"
+  },
+  "Finney County Public Library": {
+    "city": "Garden City",
+    "address": "605 E Walnut",
+    "zip_code": "67846",
+    "phone_no": "(620) 272-3680"
+  },
+  "Garden Plain Community Library": {
+    "city": "Garden Plain",
+    "address": "421 Ave B",
+    "zip_code": "67050",
+    "phone_no": "(316) 535-2990"
+  },
+  "Johnson County Library, Gardner": {
+    "city": "Gardner",
+    "address": "116 East Main",
+    "zip_code": "",
+    "phone_no": "(913) 856-7223"
+  },
+  "Garnett Public Library": {
+    "city": "Garnett",
+    "address": "125 W. 4th",
+    "zip_code": "66032",
+    "phone_no": "(785) 448-3388"
+  },
+  "Gaylord City Library": {
+    "city": "Gaylord",
+    "address": "505 Main",
+    "zip_code": "67638",
+    "phone_no": "(785) 697-2650"
+  },
+  "Geneseo Public Library": {
+    "city": "Geneseo",
+    "address": "725 Main Street",
+    "zip_code": "67444",
+    "phone_no": "(620) 824-6140"
+  },
+  "Girard Public Library": {
+    "city": "Girard",
+    "address": "128 West Prairie Ave.",
+    "zip_code": "66743",
+    "phone_no": "(620) 724-4317"
+  },
+  "Glasco City Library": {
+    "city": "Glasco",
+    "address": "",
+    "zip_code": "67445",
+    "phone_no": "(785) 568-2313"
+  },
+  "Glen Elder Library": {
+    "city": "Glen Elder",
+    "address": "105 S. Mill St.",
+    "zip_code": "67446",
+    "phone_no": "(785) 545-3632"
+  },
+  "Goessel Public Library": {
+    "city": "Goessel",
+    "address": "101 S. Cedar",
+    "zip_code": "67053",
+    "phone_no": "(620) 367-8440"
+  },
+  "Goodland Public Library": {
+    "city": "Goodland",
+    "address": "812 Broadway",
+    "zip_code": "67735",
+    "phone_no": "(785) 899-5461"
+  },
+  "Gove City Library": {
+    "city": "Gove",
+    "address": "519 Broad Street",
+    "zip_code": "67736",
+    "phone_no": "(785) 938-2242"
+  },
+  "Grainfield City Library": {
+    "city": "Grainfield",
+    "address": "242 Main St.",
+    "zip_code": "67737",
+    "phone_no": "(785) 673-4770"
+  },
+  "Central Kansas Library System": {
+    "city": "Great Bend",
+    "address": "1409 Williams Street",
+    "zip_code": "67530",
+    "phone_no": "(620) 792-4865"
+  },
+  "Great Bend Public Library": {
+    "city": "Great Bend",
+    "address": "1409 Williams",
+    "zip_code": "67530",
+    "phone_no": "(620) 792-2409"
+  },
+  "Grenola Public": {
+    "city": "Grenola",
+    "address": "205 South Main",
+    "zip_code": "67346",
+    "phone_no": "(620) 358-3707"
+  },
+  "Gridley Library": {
+    "city": "Gridley",
+    "address": "512 Main",
+    "zip_code": "",
+    "phone_no": "(316) 836-3905"
+  },
+  "Grinnell-Moore Family Library": {
+    "city": "Grinnell",
+    "address": "95 S. Adams",
+    "zip_code": "67738",
+    "phone_no": "(785) 824-3885"
+  },
+  "Gypsum Community Library": {
+    "city": "Gypsum",
+    "address": "521 Maple St.",
+    "zip_code": "67448",
+    "phone_no": "(785) 536-4319"
+  },
+  "Halstead Public Library": {
+    "city": "Halstead",
+    "address": "264 Main",
+    "zip_code": "67056",
+    "phone_no": "(316) 835-2170"
+  },
+  "Hamilton City Library": {
+    "city": "Hamilton",
+    "address": "21 E. Main",
+    "zip_code": "66853",
+    "phone_no": "(620) 678-3646"
+  },
+  "Hanover Public": {
+    "city": "Hanover",
+    "address": "205 Jackson Street",
+    "zip_code": "66945",
+    "phone_no": "(785) 337-2424"
+  },
+  "Hanston City Library": {
+    "city": "Hanston",
+    "address": "105 N Logan",
+    "zip_code": "67849",
+    "phone_no": "(620) 623-2798"
+  },
+  "Hardtner Public Library": {
+    "city": "Hardtner",
+    "address": "102 E Central",
+    "zip_code": "67057",
+    "phone_no": "(620) 296-4586"
+  },
+  "Harper Public Library": {
+    "city": "Harper",
+    "address": "1002 Oak",
+    "zip_code": "67058",
+    "phone_no": "(620) 896-2959"
+  },
+  "Hartford-Elmendaro Township": {
+    "city": "Hartford",
+    "address": "224 Commercial St.",
+    "zip_code": "66854",
+    "phone_no": "(620) 392-5518"
+  },
+  "Harveyville Mini Library": {
+    "city": "Harveyville",
+    "address": "128 W. Oak Street",
+    "zip_code": "",
+    "phone_no": "(785) 589-2414"
+  },
+  "Havana Study Club Library": {
+    "city": "Havana",
+    "address": "po box 33",
+    "zip_code": "",
+    "phone_no": "(316) 673-4942"
+  },
+  "Haven Public Library": {
+    "city": "Haven",
+    "address": "121 North Kansas Avenue",
+    "zip_code": "67543",
+    "phone_no": "(620) 465-3524"
+  },
+  "Kiowa County Library": {
+    "city": "Haviland",
+    "address": "112 N. Main",
+    "zip_code": "67059",
+    "phone_no": "(620) 862-5350"
+  },
+  "Hays Public Library": {
+    "city": "Hays",
+    "address": "1205 Main St.",
+    "zip_code": "67601",
+    "phone_no": "(785) 625-9014"
+  },
+  "Haysville Community Library": {
+    "city": "Haysville",
+    "address": "130 West Grand Avenue",
+    "zip_code": "67060",
+    "phone_no": "(316) 524-5242"
+  },
+  "Healy Extension Of Lane County Library": {
+    "city": "Healy",
+    "address": "box 63",
+    "zip_code": "",
+    "phone_no": "(316) 398-2304"
+  },
+  "Hepler City Library": {
+    "city": "Hepler",
+    "address": "105 S. Prairie",
+    "zip_code": "66746",
+    "phone_no": "(620) 368-4379"
+  },
+  "Herington Public Library": {
+    "city": "Herington",
+    "address": "102 S. Broadway",
+    "zip_code": "67449",
+    "phone_no": "(785) 258-2011"
+  },
+  "Hesston Public Library": {
+    "city": "Hesston",
+    "address": "110 E. Smith",
+    "zip_code": "67062",
+    "phone_no": "(620) 327-4666"
+  },
+  "Hiawatha-Morrill Public Library": {
+    "city": "Hiawatha",
+    "address": "431 Oregon",
+    "zip_code": "66434",
+    "phone_no": "(785) 742-3831"
+  },
+  "Highland Branch Library": {
+    "city": "Highland",
+    "address": "306 W. Main",
+    "zip_code": "",
+    "phone_no": "(785) 442-3078"
+  },
+  "Graham County Public Library": {
+    "city": "Hill City",
+    "address": "414 N West",
+    "zip_code": "67642",
+    "phone_no": "(785) 421-2722"
+  },
+  "Hillsboro Public Library": {
+    "city": "Hillsboro",
+    "address": "120 E. Grand Ave.",
+    "zip_code": "67063",
+    "phone_no": "(620) 947-3827"
+  },
+  "Hoisington Public Library": {
+    "city": "Hoisington",
+    "address": "169 South Walnut",
+    "zip_code": "67544",
+    "phone_no": "(620) 653-4128"
+  },
+  "Beck-Bookman Library": {
+    "city": "Holton",
+    "address": "420 West 4th",
+    "zip_code": "66436",
+    "phone_no": "(785) 364-3532"
+  },
+  "Hope Community Library": {
+    "city": "Hope",
+    "address": "216 N. Main",
+    "zip_code": "67451",
+    "phone_no": "(785) 366-7219"
+  },
+  "Horton Public Library": {
+    "city": "Horton",
+    "address": "809 1st Ave. East",
+    "zip_code": "66439",
+    "phone_no": "(785) 486-3326"
+  },
+  "Howard City Library": {
+    "city": "Howard",
+    "address": "124 S. Wabash",
+    "zip_code": "67349",
+    "phone_no": "(630) 374-2890"
+  },
+  "Sheridan County Public Library": {
+    "city": "Hoxie",
+    "address": "801 Royal Avenue",
+    "zip_code": "67740",
+    "phone_no": "(785) 675-3102"
+  },
+  "Stevens County Library": {
+    "city": "Hugoton",
+    "address": "500 Monroe",
+    "zip_code": "67951",
+    "phone_no": "(620) 544-2301"
+  },
+  "Humboldt Public Library": {
+    "city": "Humboldt",
+    "address": "916 Bridge",
+    "zip_code": "66748",
+    "phone_no": "(620) 473-2243"
+  },
+  "Hutchinson Public Library": {
+    "city": "Hutchinson",
+    "address": "901 N. Main",
+    "zip_code": "67501",
+    "phone_no": "(620) 663-5441"
+  },
+  "Independence Public Library": {
+    "city": "Independence",
+    "address": "220 East Maple",
+    "zip_code": "67301",
+    "phone_no": "(620) 331-3030"
+  },
+  "Inman Public Library": {
+    "city": "Inman",
+    "address": "100 N. Main",
+    "zip_code": "67546",
+    "phone_no": "(620) 585-2474"
+  },
+  "Iola Public Library": {
+    "city": "Iola",
+    "address": "218 East Madison",
+    "zip_code": "66749",
+    "phone_no": "(620) 365-3262"
+  },
+  "Southeast Kansas Library System": {
+    "city": "Iola",
+    "address": "218 East Madison Avenue",
+    "zip_code": "66749",
+    "phone_no": ""
+  },
+  "Jamestown City Library": {
+    "city": "Jamestown",
+    "address": "311 D Walnut",
+    "zip_code": "66948",
+    "phone_no": "(785) 439-6258"
+  },
+  "Jennings City Library": {
+    "city": "Jennings",
+    "address": "p.o.box84",
+    "zip_code": "67643",
+    "phone_no": "(785) 678-2666"
+  },
+  "Jetmore Public Library": {
+    "city": "Jetmore",
+    "address": "308 Main Street",
+    "zip_code": "67854",
+    "phone_no": "(620) 357-8336"
+  },
+  "Jewell Public Library": {
+    "city": "Jewell",
+    "address": "216 Delaware Street",
+    "zip_code": "66949",
+    "phone_no": "(785) 425-3630"
+  },
+  "Stanton County Public Library": {
+    "city": "Johnson",
+    "address": "103 E Sherman",
+    "zip_code": "67855",
+    "phone_no": "(620) 492-2302"
+  },
+  "Dorothy Bramlage Public Library": {
+    "city": "Junction City",
+    "address": "230 West Seventh Street",
+    "zip_code": "66441",
+    "phone_no": "(785) 238-4311"
+  },
+  "Kanopolis Public Library": {
+    "city": "Kanopolis",
+    "address": "221 N. Kansas",
+    "zip_code": "67454",
+    "phone_no": "(785) 472-3053"
+  },
+  "Argentine Branch Library": {
+    "city": "Kansas City",
+    "address": "2800 Metropolitan Ave",
+    "zip_code": "",
+    "phone_no": "(913) 722-7400"
+  },
+  "Kansas City, Kansas Public Library": {
+    "city": "Kansas City",
+    "address": "625 Minnesota Avenue",
+    "zip_code": "66101",
+    "phone_no": "(913) 551-3280"
+  },
+  "Mr. And Mrs. F.L. Schlagle Library": {
+    "city": "Kansas City",
+    "address": "4051 West Drive",
+    "zip_code": "",
+    "phone_no": "(913) 299-2384"
+  },
+  "West Wyandotte Branch Library": {
+    "city": "Kansas City",
+    "address": "1737 N. 82nd Street",
+    "zip_code": "",
+    "phone_no": "(913) 596-5800"
+  },
+  "Kensington Community-School Library": {
+    "city": "Kensington",
+    "address": "203 S Jackson",
+    "zip_code": "66951",
+    "phone_no": "(785) 476-2219"
+  },
+  "Kingman Carnegie Library": {
+    "city": "Kingman",
+    "address": "455 North Main",
+    "zip_code": "67068",
+    "phone_no": "(620) 532-3061"
+  },
+  "Kinsley": {
+    "city": "Kinsley",
+    "address": "208 E. 8th St.",
+    "zip_code": "67547",
+    "phone_no": "(620) 659-3341"
+  },
+  "Kiowa Public Library": {
+    "city": "Kiowa",
+    "address": "123 N 7th",
+    "zip_code": "67070",
+    "phone_no": "(620) 825-4630"
+  },
+  "Kirwin City Library": {
+    "city": "Kirwin",
+    "address": "1st And Main",
+    "zip_code": "67644",
+    "phone_no": "(785) 543-6652"
+  },
+  "Kismet Public Library": {
+    "city": "Kismet",
+    "address": "503 Main Street",
+    "zip_code": "67859",
+    "phone_no": "(620) 563-7357"
+  },
+  "Barnard Library": {
+    "city": "La Crosse",
+    "address": "521 Elm",
+    "zip_code": "67548",
+    "phone_no": "(785) 222-2826"
+  },
+  "Library District 2 , Linn County": {
+    "city": "Lacygne",
+    "address": "206 N. Commercial",
+    "zip_code": "66040",
+    "phone_no": "(913) 757-2151"
+  },
+  "Library District 2 Of Linn County, La Cygne": {
+    "city": "Lacygne",
+    "address": "210 N. Commercial",
+    "zip_code": "",
+    "phone_no": "(913) 757-2151"
+  },
+  "Kearny County Library": {
+    "city": "Lakin",
+    "address": "101 E. Prairie",
+    "zip_code": "67860",
+    "phone_no": "(620) 355-6674"
+  },
+  "Jordaan Memorial Library": {
+    "city": "Larned",
+    "address": "724 Broadway",
+    "zip_code": "67550",
+    "phone_no": "(620) 285-2876"
+  },
+  "Lawrence Public Library": {
+    "city": "Lawrence",
+    "address": "707 Vermont Street",
+    "zip_code": "66044",
+    "phone_no": "(785) 843-3833"
+  },
+  "Northeast Kansas Library System": {
+    "city": "Lawrence",
+    "address": "4317 W. 6th St.",
+    "zip_code": "66049",
+    "phone_no": "(785) 838-4090"
+  },
+  "Leavenworth Public Library": {
+    "city": "Leavenworth",
+    "address": "417 Spruce Street",
+    "zip_code": "66048",
+    "phone_no": "(913) 682-5666"
+  },
+  "Johnson County Library, Leawood": {
+    "city": "Leawood",
+    "address": "4700 Town Center Drive",
+    "zip_code": "",
+    "phone_no": "(913) 344-0250"
+  },
+  "Lebanon Community": {
+    "city": "Lebanon",
+    "address": "404 Main",
+    "zip_code": "66952",
+    "phone_no": "(785) 389-5711"
+  },
+  "Lebo Library": {
+    "city": "Lebo",
+    "address": "327 Ogden",
+    "zip_code": "",
+    "phone_no": "(316) 256-6452"
+  },
+  "Johnson County Library, Lackman": {
+    "city": "Lenexa",
+    "address": "15345 West 87th Street Parkway",
+    "zip_code": "",
+    "phone_no": "(913) 752-8750"
+  },
+  "Lenora Public Library": {
+    "city": "Lenora",
+    "address": "110 N Main",
+    "zip_code": "67645",
+    "phone_no": "(785) 567-4432"
+  },
+  "Leon Public Library": {
+    "city": "Leon",
+    "address": "113 S. Main",
+    "zip_code": "67074",
+    "phone_no": "(316) 742-3438"
+  },
+  "Leonardville City Library": {
+    "city": "Leonardville",
+    "address": "117 N. Erpelding Rd",
+    "zip_code": "66449",
+    "phone_no": "(785) 293-5606"
+  },
+  "Wichita County Library": {
+    "city": "Leoti",
+    "address": "208 South Fourth",
+    "zip_code": "67861",
+    "phone_no": "(620) 375-4322"
+  },
+  "Leroy Library": {
+    "city": "Leroy",
+    "address": "725 Main",
+    "zip_code": "",
+    "phone_no": "(316) 964-2321"
+  },
+  "Meadowlark Library-Lewis": {
+    "city": "Lewis",
+    "address": "208 Main St.",
+    "zip_code": "67552",
+    "phone_no": "(620) 324-5743"
+  },
+  "Liberal Memorial Library": {
+    "city": "Liberal",
+    "address": "519 N. Kansas Avenue",
+    "zip_code": "67901",
+    "phone_no": "(620) 626-0180"
+  },
+  "Lincoln Carnegie Library": {
+    "city": "Lincoln",
+    "address": "203 S Third",
+    "zip_code": "67455",
+    "phone_no": "(785) 524-4034"
+  },
+  "Lindsborg Community Library": {
+    "city": "Lindsborg",
+    "address": "111 S. Main",
+    "zip_code": "67456",
+    "phone_no": "(785) 227-2710"
+  },
+  "Linwood Community Library District 1": {
+    "city": "Linwood",
+    "address": "302 Main Street",
+    "zip_code": "66052",
+    "phone_no": "(913) 301-3686"
+  },
+  "Little River Community Library": {
+    "city": "Little River",
+    "address": "125 Main Street",
+    "zip_code": "67457",
+    "phone_no": "(620) 897-6610"
+  },
+  "Logan Public Library": {
+    "city": "Logan",
+    "address": "109 W. Main",
+    "zip_code": "67646",
+    "phone_no": "(785) 689-4333"
+  },
+  "Long Island Community Library": {
+    "city": "Long Island",
+    "address": "369 Washington",
+    "zip_code": "67647",
+    "phone_no": "(785) 854-7474"
+  },
+  "Longton Public Library": {
+    "city": "Longton",
+    "address": "512a Kansas Ave",
+    "zip_code": "67352",
+    "phone_no": "(620) 642-6012"
+  },
+  "Library District 1, Miami County": {
+    "city": "Louisburg",
+    "address": "206 S. Broadway St.",
+    "zip_code": "66053",
+    "phone_no": "(913) 837-2217"
+  },
+  "Louisburg Library": {
+    "city": "Louisburg",
+    "address": "206 S. Broadway",
+    "zip_code": "66053",
+    "phone_no": "(913) 837-2217"
+  },
+  "Lucas Public Library": {
+    "city": "Lucas",
+    "address": "209 S. Main St.",
+    "zip_code": "67648",
+    "phone_no": "(785) 525-6305"
+  },
+  "Luray City Library": {
+    "city": "Luray",
+    "address": "119 N. Main",
+    "zip_code": "67649",
+    "phone_no": "(785) 698-2208"
+  },
+  "Lyndon Carnegie Library": {
+    "city": "Lyndon",
+    "address": "127 E 6th St",
+    "zip_code": "66451",
+    "phone_no": "(785) 828-4520"
+  },
+  "Lyons Public Library": {
+    "city": "Lyons",
+    "address": "217 East Ave South",
+    "zip_code": "67554",
+    "phone_no": "(620) 257-2961"
+  },
+  "Macksville City Library": {
+    "city": "Macksville",
+    "address": "333 N. Main",
+    "zip_code": "67557",
+    "phone_no": "(620) 348-3555"
+  },
+  "Madison Public Library": {
+    "city": "Madison",
+    "address": "110 South 1st St.",
+    "zip_code": "66860",
+    "phone_no": "(620) 437-2634"
+  },
+  "Manhattan Public Library": {
+    "city": "Manhattan",
+    "address": "629 Poyntz Avenue",
+    "zip_code": "66502",
+    "phone_no": "(785) 776-4741"
+  },
+  "North Central Kansas Library System": {
+    "city": "Manhattan",
+    "address": "629 Poyntz Avenue",
+    "zip_code": "66502",
+    "phone_no": "(785) 776-4741"
+  },
+  "Mankato City Library": {
+    "city": "Mankato",
+    "address": "214 N High Ste 1",
+    "zip_code": "66956",
+    "phone_no": "(785) 378-3885"
+  },
+  "Marion City Library": {
+    "city": "Marion",
+    "address": "101 Library St",
+    "zip_code": "66861",
+    "phone_no": "(620) 382-2442"
+  },
+  "Marquette Community Library": {
+    "city": "Marquette",
+    "address": "121 North Washington",
+    "zip_code": "67464",
+    "phone_no": "(785) 546-2561"
+  },
+  "Marysville Public Library": {
+    "city": "Marysville",
+    "address": "1009 Broadway",
+    "zip_code": "66508",
+    "phone_no": "(785) 562-2491"
+  },
+  "Mccracken Public Library": {
+    "city": "Mccracken",
+    "address": "303 Main",
+    "zip_code": "67556",
+    "phone_no": "(785) 394-2444"
+  },
+  "Mccune Osage Township Library": {
+    "city": "Mccune",
+    "address": "509 6th St.",
+    "zip_code": "66753",
+    "phone_no": "(620) 632-4112"
+  },
+  "Mclouth Public Library": {
+    "city": "Mclouth",
+    "address": "215 South Union",
+    "zip_code": "66054",
+    "phone_no": "(913) 796-2225"
+  },
+  "Mcpherson Public Library": {
+    "city": "Mcpherson",
+    "address": "214 W. Marlin",
+    "zip_code": "67460",
+    "phone_no": "(620) 245-2570"
+  },
+  "Meade Public Library": {
+    "city": "Meade",
+    "address": "104 E. West Plains",
+    "zip_code": "67864",
+    "phone_no": "(620) 873-2522"
+  },
+  "Lincoln Library": {
+    "city": "Medicine Lodge",
+    "address": "201 N. Main",
+    "zip_code": "67104",
+    "phone_no": "(620) 886-5746"
+  },
+  "Meriden Community Library": {
+    "city": "Meriden",
+    "address": "7272 K-4 Hwy, Ste D",
+    "zip_code": "66512",
+    "phone_no": "(785) 484-3393"
+  },
+  "Johnson County Library, Antioch Central": {
+    "city": "Merriam",
+    "address": "8700 Shawnee Mission Pwky.",
+    "zip_code": "",
+    "phone_no": "(913) 384-8500"
+  },
+  "Minneapolis Public": {
+    "city": "Minneapolis",
+    "address": "519 Delia Ave.",
+    "zip_code": "67467",
+    "phone_no": "(785) 392-3205"
+  },
+  "Minneola City Library": {
+    "city": "Minneola",
+    "address": "112 Main",
+    "zip_code": "67865",
+    "phone_no": "(620) 885-4749"
+  },
+  "Moline Public Library": {
+    "city": "Moline",
+    "address": "107 N. Main",
+    "zip_code": "67353",
+    "phone_no": "(620) 647-3310"
+  },
+  "Montezuma Township Library": {
+    "city": "Montezuma",
+    "address": "309 N. Aztec",
+    "zip_code": "67867",
+    "phone_no": "(620) 846-7032"
+  },
+  "Moran Public Library": {
+    "city": "Moran",
+    "address": "335 N. Cedar",
+    "zip_code": "66755",
+    "phone_no": "(620) 237-4334"
+  },
+  "Mary Sommerville Free Library, Mound City": {
+    "city": "Mound City",
+    "address": "509 Main Street",
+    "zip_code": "66056",
+    "phone_no": "(913) 795-2788"
+  },
+  "Mound City-Linn County Dist. 4": {
+    "city": "Mound City",
+    "address": "509 Main Street",
+    "zip_code": "66056",
+    "phone_no": "(913) 795-2788"
+  },
+  "Mound Valley Library": {
+    "city": "Mound Valley",
+    "address": "411 Hickory",
+    "zip_code": "67354",
+    "phone_no": "(620) 328-3411"
+  },
+  "Moundridge Public Library": {
+    "city": "Moundridge",
+    "address": "220 S. Christian",
+    "zip_code": "67107",
+    "phone_no": "(620) 345-6355"
+  },
+  "Mt. Hope Public Library": {
+    "city": "Mt. Hope",
+    "address": "109 South Ohio",
+    "zip_code": "67108",
+    "phone_no": "(316) 667-2665"
+  },
+  "Mulvane Public Library": {
+    "city": "Mulvane",
+    "address": "101 East Main",
+    "zip_code": "67110",
+    "phone_no": "(316) 777-1211"
+  },
+  "Neodesha-W.A. Rankin Memorial": {
+    "city": "Neodesha",
+    "address": "502 Indiana",
+    "zip_code": "66757",
+    "phone_no": "(620) 325-3275"
+  },
+  "Ness City Public Library": {
+    "city": "Ness City",
+    "address": "113 South Iowa",
+    "zip_code": "67560",
+    "phone_no": "(785) 798-3415"
+  },
+  "New Strawn Library": {
+    "city": "New Strawn",
+    "address": "365 North Main",
+    "zip_code": "",
+    "phone_no": "(316) 364-8910"
+  },
+  "Newton Public Library": {
+    "city": "Newton",
+    "address": "720 N Oak",
+    "zip_code": "67114",
+    "phone_no": "(316) 283-2890"
+  },
+  "Nickerson Public Library": {
+    "city": "Nickerson",
+    "address": "23 N. Nickerson",
+    "zip_code": "67561",
+    "phone_no": "(620) 422-3361"
+  },
+  "Norcatur Public Library": {
+    "city": "Norcatur",
+    "address": "301 E. Ossipee",
+    "zip_code": "67653",
+    "phone_no": "(785) 693-4225"
+  },
+  "North Kansas City Public Library-High School Media Center": {
+    "city": "North Kansas City",
+    "address": "2251 Howell Street",
+    "zip_code": "",
+    "phone_no": "(816) 221-3360"
+  },
+  "Northwest Kansas Library System": {
+    "city": "Norton",
+    "address": "2 Washington Square",
+    "zip_code": "67654",
+    "phone_no": "(785) 877-5148"
+  },
+  "Norton Public Library": {
+    "city": "Norton",
+    "address": "1 Washington Square",
+    "zip_code": "67654",
+    "phone_no": "(785) 877-2481"
+  },
+  "Nortonville Public Library": {
+    "city": "Nortonville",
+    "address": "407 Main",
+    "zip_code": "66060",
+    "phone_no": "(913) 886-2060"
+  },
+  "Norwich Public": {
+    "city": "Norwich",
+    "address": "209 South Parkway",
+    "zip_code": "67118",
+    "phone_no": "(620) 478-2235"
+  },
+  "Oakley Public Library": {
+    "city": "Oakley",
+    "address": "700 West 3rd",
+    "zip_code": "67748",
+    "phone_no": "(785) 671-4776"
+  },
+  "Oberlin City Library": {
+    "city": "Oberlin",
+    "address": "104 E. Oak",
+    "zip_code": "67749",
+    "phone_no": "(785) 475-2412"
+  },
+  "Indian Creek Branch Library": {
+    "city": "Olathe",
+    "address": "1290 South Blackbob Road",
+    "zip_code": "",
+    "phone_no": "(913) 397-5235"
+  },
+  "Olathe Public Library": {
+    "city": "Olathe",
+    "address": "201 E Park Street",
+    "zip_code": "66061",
+    "phone_no": "(913) 971-6850"
+  },
+  "Olsburg Mini Library": {
+    "city": "Olsburg",
+    "address": "318 North 2nd Street",
+    "zip_code": "",
+    "phone_no": "(785) 468-3347"
+  },
+  "Onaga Branch": {
+    "city": "Onaga",
+    "address": "313 Leonard Street",
+    "zip_code": "",
+    "phone_no": "(785) 889-4531"
+  },
+  "Lieber Public Library, Osage City": {
+    "city": "Osage City",
+    "address": "214 S. 6th St.",
+    "zip_code": "",
+    "phone_no": "(913) 528-3727"
+  },
+  "Osage City Public Library": {
+    "city": "Osage City",
+    "address": "515 Main St.",
+    "zip_code": "66523",
+    "phone_no": "(785) 528-3727"
+  },
+  "Osawatomie Public Library": {
+    "city": "Osawatomie",
+    "address": "527 Brown Avenue",
+    "zip_code": "66064",
+    "phone_no": "(913) 755-2136"
+  },
+  "Osborne Public Library": {
+    "city": "Osborne",
+    "address": "325 W Main",
+    "zip_code": "67473",
+    "phone_no": "(785) 346-5486"
+  },
+  "Oskaloosa Public Library": {
+    "city": "Oskaloosa",
+    "address": "315 Jefferson St.",
+    "zip_code": "66066",
+    "phone_no": "(785) 863-2475"
+  },
+  "Oswego Public": {
+    "city": "Oswego",
+    "address": "704 Fourth Street",
+    "zip_code": "67356",
+    "phone_no": "(620) 795-4921"
+  },
+  "Otis Community Library": {
+    "city": "Otis",
+    "address": "122 South Main",
+    "zip_code": "67565",
+    "phone_no": "(785) 387-2287"
+  },
+  "Ottawa Library": {
+    "city": "Ottawa",
+    "address": "105 S Hickory St",
+    "zip_code": "66067",
+    "phone_no": "(785) 242-3080"
+  },
+  "Overbrook Public Library": {
+    "city": "Overbrook",
+    "address": "317 Maple",
+    "zip_code": "66524",
+    "phone_no": "(785) 665-7266"
+  },
+  "Johnson County Library": {
+    "city": "Overland Park",
+    "address": "9875 W. 87th Street",
+    "zip_code": "66212",
+    "phone_no": "(913) 495-2400"
+  },
+  "Johnson County Library, Blue Valley": {
+    "city": "Overland Park",
+    "address": "15185 South Lowell",
+    "zip_code": "",
+    "phone_no": "(913) 897-8200"
+  },
+  "Johnson County Library, Oak Park": {
+    "city": "Overland Park",
+    "address": "9500 Bluejacket",
+    "zip_code": "",
+    "phone_no": "(913) 752-8700"
+  },
+  "Johnson County Library, Shawnee Mission": {
+    "city": "Overland Park",
+    "address": "8826 Santa Fe",
+    "zip_code": "",
+    "phone_no": "(913) 967-8600"
+  },
+  "Oxford Public Library": {
+    "city": "Oxford",
+    "address": "115 South Sumner",
+    "zip_code": "67119",
+    "phone_no": "(620) 455-2221"
+  },
+  "Palco Public Library": {
+    "city": "Palco",
+    "address": "311 Main",
+    "zip_code": "67657",
+    "phone_no": "(785) 737-4286"
+  },
+  "Paola Free Library": {
+    "city": "Paola",
+    "address": "101 East Peoria",
+    "zip_code": "66071",
+    "phone_no": "(913) 259-3655"
+  },
+  "Park City Public Library": {
+    "city": "Park City",
+    "address": "1530 E. 61st St. N.",
+    "zip_code": "67219",
+    "phone_no": "(316) 744-6318"
+  },
+  "Library District 1 Of Linn County, Parker": {
+    "city": "Parker",
+    "address": "105 N. Main",
+    "zip_code": "",
+    "phone_no": "(913) 898-4650"
+  },
+  "Linn County Library District 1": {
+    "city": "Parker",
+    "address": "230 W. Main",
+    "zip_code": "66072",
+    "phone_no": "(913) 898-4650"
+  },
+  "Parsons Public Library": {
+    "city": "Parsons",
+    "address": "311 S 17th Street",
+    "zip_code": "67357",
+    "phone_no": "(620) 421-5920"
+  },
+  "Partridge Public Library": {
+    "city": "Partridge",
+    "address": "23 S Main",
+    "zip_code": "67566",
+    "phone_no": "(620) 567-2467"
+  },
+  "Peabody Township Library": {
+    "city": "Peabody",
+    "address": "214 N. Walnut",
+    "zip_code": "66866",
+    "phone_no": "(620) 983-2502"
+  },
+  "Phillipsburg City Library": {
+    "city": "Phillipsburg",
+    "address": "888 Fourth Street",
+    "zip_code": "67661",
+    "phone_no": "(785) 543-5325"
+  },
+  "Pittsburg Public Library": {
+    "city": "Pittsburg",
+    "address": "308 North Walnut",
+    "zip_code": "66762",
+    "phone_no": "(620) 231-8110"
+  },
+  "Plains Community Library": {
+    "city": "Plains",
+    "address": "500 Grand Ave.",
+    "zip_code": "67869",
+    "phone_no": "(620) 563-7326"
+  },
+  "Plainville Memorial": {
+    "city": "Plainville",
+    "address": "200 Sw 1st",
+    "zip_code": "67663",
+    "phone_no": "(785) 434-2786"
+  },
+  "Lincoln Library, Pleasanton": {
+    "city": "Pleasanton",
+    "address": "9th Palm",
+    "zip_code": "",
+    "phone_no": "(913) 352-8257"
+  },
+  "Linn County Library District 5": {
+    "city": "Pleasanton",
+    "address": "904 Main Street",
+    "zip_code": "66075",
+    "phone_no": "(913) 352-8554"
+  },
+  "Pomona Community Library": {
+    "city": "Pomona",
+    "address": "219 Jefferson",
+    "zip_code": "66076",
+    "phone_no": "(785) 418-9932"
+  },
+  "Potwin Public Library": {
+    "city": "Potwin",
+    "address": "126 N. Randall",
+    "zip_code": "67123",
+    "phone_no": "(620) 752-3421"
+  },
+  "Sunshine City Library": {
+    "city": "Prairie View",
+    "address": "207 Kansas",
+    "zip_code": "67664",
+    "phone_no": "(785) 973-2265"
+  },
+  "Johnson County Library, Corinth": {
+    "city": "Prairie Village",
+    "address": "8100 Mission Road",
+    "zip_code": "",
+    "phone_no": "(913) 967-8650"
+  },
+  "Pratt Public Library": {
+    "city": "Pratt",
+    "address": "4th Jackson St.",
+    "zip_code": "67124",
+    "phone_no": "(620) 672-3041"
+  },
+  "Prescott City Library": {
+    "city": "Prescott",
+    "address": "174 W. 3rd",
+    "zip_code": "66767",
+    "phone_no": "(913) 471-4593"
+  },
+  "Pretty Prairie Public Library": {
+    "city": "Pretty Prairie",
+    "address": "119 W. Main St.",
+    "zip_code": "67570",
+    "phone_no": "(620) 459-6392"
+  },
+  "Protection Township Library": {
+    "city": "Protection",
+    "address": "404 North Broadway",
+    "zip_code": "67127",
+    "phone_no": "(620) 622-4886"
+  },
+  "Jay Johnson Public Library": {
+    "city": "Quinter",
+    "address": "411 Main Street",
+    "zip_code": "67752",
+    "phone_no": "(785) 754-2171"
+  },
+  "Randall Public Library": {
+    "city": "Randall",
+    "address": "107 Main St.",
+    "zip_code": "66963",
+    "phone_no": "(785) 739-2331"
+  },
+  "Ransom Public Library": {
+    "city": "Ransom",
+    "address": "411 S. Vermont",
+    "zip_code": "67572",
+    "phone_no": "(785) 731-2855"
+  },
+  "Rae Hobson Memorial Library": {
+    "city": "Republic",
+    "address": "401 Pawnee Ave.",
+    "zip_code": "66964",
+    "phone_no": "(785) 361-2481"
+  },
+  "Richmond Public Library": {
+    "city": "Richmond",
+    "address": "107 E. Central",
+    "zip_code": "66080",
+    "phone_no": "(785) 835-6163"
+  },
+  "Riley City Library": {
+    "city": "Riley",
+    "address": "206 S. Broadway St",
+    "zip_code": "66531",
+    "phone_no": "(785) 485-2978"
+  },
+  "Johnson County Library, Cedar Roe": {
+    "city": "Roeland Park",
+    "address": "5120 Cedar",
+    "zip_code": "",
+    "phone_no": "(913) 384-8547"
+  },
+  "Rose Hill Public Library": {
+    "city": "Rose Hill",
+    "address": "306 N Rose Hill Rd",
+    "zip_code": "67133",
+    "phone_no": "(316) 776-3013"
+  },
+  "Rossville Community Library": {
+    "city": "Rossville",
+    "address": "407 Main",
+    "zip_code": "",
+    "phone_no": "(785) 584-6454"
+  },
+  "Russell Public Library": {
+    "city": "Russell",
+    "address": "126 East 6th Street",
+    "zip_code": "67665",
+    "phone_no": "(785) 483-2742"
+  },
+  "Mary Cotton Pubic Library": {
+    "city": "Sabetha",
+    "address": "915 Virginia",
+    "zip_code": "66534",
+    "phone_no": "(785) 284-3160"
+  },
+  "Salina Public Library": {
+    "city": "Salina",
+    "address": "301 W. Elm Street",
+    "zip_code": "67401",
+    "phone_no": "(785) 825-4624"
+  },
+  "Dudley Township Library": {
+    "city": "Satanta",
+    "address": "105 Sequoyah Street",
+    "zip_code": "67870",
+    "phone_no": "(620) 649-2213"
+  },
+  "Savonburg Public Library": {
+    "city": "Savonburg",
+    "address": "101 S. Walnut St",
+    "zip_code": "66772",
+    "phone_no": "(620) 754-3835"
+  },
+  "Scandia City Library": {
+    "city": "Scandia",
+    "address": "318 Fourth Street",
+    "zip_code": "66966",
+    "phone_no": "(785) 335-2271"
+  },
+  "Scott County Library": {
+    "city": "Scott City",
+    "address": "110 W. 8th St.",
+    "zip_code": "67871",
+    "phone_no": "(620) 872-5341"
+  },
+  "Sedan Public Library": {
+    "city": "Sedan",
+    "address": "115 N Chautauqua",
+    "zip_code": "67361",
+    "phone_no": "(620) 725-3405"
+  },
+  "Lillian Tear Library, Sedgwick": {
+    "city": "Sedgwick",
+    "address": "112 W. 5th",
+    "zip_code": "",
+    "phone_no": "(316) 772-5727"
+  },
+  "Sedgwick-Lillian Tear": {
+    "city": "Sedgwick",
+    "address": "501 Commercial",
+    "zip_code": "67135",
+    "phone_no": "(316) 772-5727"
+  },
+  "Selden Public Library": {
+    "city": "Selden",
+    "address": "109 S. Kansas Avenue",
+    "zip_code": "67757",
+    "phone_no": "(785) 386-4321"
+  },
+  "Seneca Free Library": {
+    "city": "Seneca",
+    "address": "606 Main Street",
+    "zip_code": "66538",
+    "phone_no": "(785) 336-2377"
+  },
+  "Sharon Wisner Library": {
+    "city": "Sharon",
+    "address": "102 South Broadway",
+    "zip_code": "67138",
+    "phone_no": "(620) 294-5472"
+  },
+  "Wisner Library": {
+    "city": "Sharon",
+    "address": "102 S. Boardway",
+    "zip_code": "67138",
+    "phone_no": "(620) 294-5472"
+  },
+  "Sharon Springs Public Library": {
+    "city": "Sharon Springs",
+    "address": "113 W.2nd",
+    "zip_code": "67758",
+    "phone_no": "(785) 852-4685"
+  },
+  "Johnson County Library, Shawnee": {
+    "city": "Shawnee",
+    "address": "13811 Johnson Drive",
+    "zip_code": "",
+    "phone_no": "(913) 962-3800"
+  },
+  "Silver Lake Library": {
+    "city": "Silver Lake",
+    "address": "203 Railroad",
+    "zip_code": "66539",
+    "phone_no": "(785) 582-5141"
+  },
+  "Smith Center Public Library": {
+    "city": "Smith Center",
+    "address": "117 W. Court",
+    "zip_code": "66967",
+    "phone_no": "(785) 282-3361"
+  },
+  "Solomon Public Library": {
+    "city": "Solomon",
+    "address": "108 N. Walnut",
+    "zip_code": "67480",
+    "phone_no": "(785) 655-3521"
+  },
+  "South Haven Township Library": {
+    "city": "South Haven",
+    "address": "104 W. Baird",
+    "zip_code": "67140",
+    "phone_no": "(620) 892-5268"
+  },
+  "South Central Kansas Library System": {
+    "city": "South Hutchinson",
+    "address": "321 North Main Street",
+    "zip_code": "67650",
+    "phone_no": "(620) 663-3211"
+  },
+  "Spearville Township Library": {
+    "city": "Spearville",
+    "address": "414 N. Main Street",
+    "zip_code": "67876",
+    "phone_no": "(620) 385-2501"
+  },
+  "Johnson County Library, Spring Hill": {
+    "city": "Spring Hill",
+    "address": "109 South Webster",
+    "zip_code": "",
+    "phone_no": "(913) 592-3232"
+  },
+  "Graves Memorial Public Library": {
+    "city": "St Paul",
+    "address": "717 Central",
+    "zip_code": "66771",
+    "phone_no": "(620) 449-2001"
+  },
+  "St. Francis Public Library": {
+    "city": "St. Francis",
+    "address": "121 N. Scott",
+    "zip_code": "67756",
+    "phone_no": "(785) 332-3292"
+  },
+  "Ida Long Goodman Memorial Library": {
+    "city": "St. John",
+    "address": "406 N. Monroe Ave",
+    "zip_code": "67576",
+    "phone_no": "(620) 549-3227"
+  },
+  "Pottawatomie Wabaunsee Regional Library": {
+    "city": "St. Marys",
+    "address": "306 N. 5th Street",
+    "zip_code": "66536",
+    "phone_no": "(785) 437-2778"
+  },
+  "St. Marys Library": {
+    "city": "St. Marys",
+    "address": "306 North 5th Street",
+    "zip_code": "",
+    "phone_no": "(785) 437-2778"
+  },
+  "Nora E. Larabee Memorial Library": {
+    "city": "Stafford",
+    "address": "108 North Union",
+    "zip_code": "67578",
+    "phone_no": "(620) 234-5762"
+  },
+  "Sterling Free Public Library": {
+    "city": "Sterling",
+    "address": "138 N. Broadway",
+    "zip_code": "67579",
+    "phone_no": "(620) 278-3191"
+  },
+  "Stockton": {
+    "city": "Stockton",
+    "address": "124 N. Cedar",
+    "zip_code": "67669",
+    "phone_no": "(785) 425-6372"
+  },
+  "Haskell Township Library": {
+    "city": "Sublette",
+    "address": "700 West Chouteau",
+    "zip_code": "67877",
+    "phone_no": "(620) 675-2771"
+  },
+  "Summerfield Public Library": {
+    "city": "Summerfield",
+    "address": "300 Main St",
+    "zip_code": "66541",
+    "phone_no": "(785) 244-6531"
+  },
+  "Sylvan Grove Public Library": {
+    "city": "Sylvan Grove",
+    "address": "122 S Main",
+    "zip_code": "67481",
+    "phone_no": "(785) 526-7188"
+  },
+  "Sylvia Public Library": {
+    "city": "Sylvia",
+    "address": "121 S. Main",
+    "zip_code": "67581",
+    "phone_no": "(620) 486-2472"
+  },
+  "Hamilton County Public Library": {
+    "city": "Syracuse",
+    "address": "102 W. Ave C",
+    "zip_code": "67878",
+    "phone_no": "(620) 384-5622"
+  },
+  "Thayer Friday Reading Club City Library": {
+    "city": "Thayer",
+    "address": "200 West Neosho Avenue",
+    "zip_code": "66776",
+    "phone_no": "(620) 839-5646"
+  },
+  "Tonganoxie Public Library": {
+    "city": "Tonganoxie",
+    "address": "303 Bury St.",
+    "zip_code": "66086",
+    "phone_no": "(913) 845-3281"
+  },
+  "Kansas State Historical Society": {
+    "city": "Topeka",
+    "address": "6425 Sw Sixth Avenue",
+    "zip_code": "",
+    "phone_no": "(785) 272-8682"
+  },
+  "Topeka And Shawnee County Public Library": {
+    "city": "Topeka",
+    "address": "1515 Sw 10th Ave",
+    "zip_code": "66604",
+    "phone_no": "(785) 580-4400"
+  },
+  "Toronto Public Library": {
+    "city": "Toronto",
+    "address": "107 W. Main St.",
+    "zip_code": "66777",
+    "phone_no": "(620) 637-2661"
+  },
+  "Towanda Public Library": {
+    "city": "Towanda",
+    "address": "620 Highland",
+    "zip_code": "67144",
+    "phone_no": "(316) 536-2464"
+  },
+  "Greeley County Public Library": {
+    "city": "Tribune",
+    "address": "517 Broadway",
+    "zip_code": "67879",
+    "phone_no": "(620) 376-4801"
+  },
+  "Library District 1, Doniphan County": {
+    "city": "Troy",
+    "address": "105 N. Main",
+    "zip_code": "66087",
+    "phone_no": "(785) 985-2597"
+  },
+  "Turon Community Library": {
+    "city": "Turon",
+    "address": "501 E. Price",
+    "zip_code": "67583",
+    "phone_no": "(620) 497-6409"
+  },
+  "Udall Public Library": {
+    "city": "Udall",
+    "address": "109 E. First St",
+    "zip_code": "67146",
+    "phone_no": "(620) 782-3435"
+  },
+  "Grant County Library": {
+    "city": "Ulysses",
+    "address": "215 E. Grant Ave.",
+    "zip_code": "67880",
+    "phone_no": "(620) 356-1433"
+  },
+  "Utica Library Association": {
+    "city": "Utica",
+    "address": "249 N Ohio",
+    "zip_code": "67584",
+    "phone_no": "(785) 391-2419"
+  },
+  "Edna Buschow Memorial Library": {
+    "city": "Valley Center",
+    "address": "321 West 1st St.",
+    "zip_code": "67147",
+    "phone_no": "(316) 755-7350"
+  },
+  "Delaware Township Library": {
+    "city": "Valley Falls",
+    "address": "421 Mary St. A",
+    "zip_code": "66088",
+    "phone_no": "(785) 945-3990"
+  },
+  "Vermillion Public Library": {
+    "city": "Vermillion",
+    "address": "102 Main",
+    "zip_code": "66544",
+    "phone_no": "(785) 382-6227"
+  },
+  "Viola Township": {
+    "city": "Viola",
+    "address": "100 N. Grice",
+    "zip_code": "67149",
+    "phone_no": "(620) 584-6679"
+  },
+  "Wakeeney Public Library": {
+    "city": "Wakeeney",
+    "address": "610 Russell Ave.",
+    "zip_code": "67672",
+    "phone_no": "(785) 743-2960"
+  },
+  "Wakefield Public Library": {
+    "city": "Wakefield",
+    "address": "205 Third Street",
+    "zip_code": "67487",
+    "phone_no": "(785) 461-5510"
+  },
+  "Walnut Public Library": {
+    "city": "Walnut",
+    "address": "511 W. Robbins",
+    "zip_code": "66780",
+    "phone_no": "(620) 354-6794"
+  },
+  "Walton Community Library": {
+    "city": "Walton",
+    "address": "122 Main St",
+    "zip_code": "67151",
+    "phone_no": "(620) 837-3252"
+  },
+  "Wamego Public Library": {
+    "city": "Wamego",
+    "address": "431 Lincoln Avenue",
+    "zip_code": "66547",
+    "phone_no": "(785) 456-9181"
+  },
+  "Washington Library": {
+    "city": "Washington",
+    "address": "116 E. 2nd",
+    "zip_code": "66968",
+    "phone_no": "(785) 325-2114"
+  },
+  "Bern Community Library": {
+    "city": "Washington Townsh",
+    "address": "405 Main St",
+    "zip_code": "66408",
+    "phone_no": "(785) 336-3000"
+  },
+  "Waterville Public Library": {
+    "city": "Waterville",
+    "address": "129 E Commercial",
+    "zip_code": "66548",
+    "phone_no": "(785) 353-2769"
+  },
+  "Wathena Branch Library": {
+    "city": "Wathena",
+    "address": "206 St. Joseph",
+    "zip_code": "",
+    "phone_no": "(785) 989-4711"
+  },
+  "Waverly Library": {
+    "city": "Waverly",
+    "address": "608 Pearson",
+    "zip_code": "",
+    "phone_no": "(913) 733-2400"
+  },
+  "Weir Public Library": {
+    "city": "Weir",
+    "address": "612 South Jefferson",
+    "zip_code": "66781",
+    "phone_no": "(620) 396-8899"
+  },
+  "Wellington Public": {
+    "city": "Wellington",
+    "address": "121 West 7th",
+    "zip_code": "67152",
+    "phone_no": "(620) 326-2011"
+  },
+  "Wellsville City Library": {
+    "city": "Wellsville",
+    "address": "115 W. 6th St.",
+    "zip_code": "66092",
+    "phone_no": "(785) 883-2870"
+  },
+  "Westmoreland Mini Library": {
+    "city": "Westmoreland",
+    "address": "315 Main Street",
+    "zip_code": "",
+    "phone_no": "(785) 457-2841"
+  },
+  "Wetmore Public Library": {
+    "city": "Wetmore",
+    "address": "333 2nd St.",
+    "zip_code": "66550",
+    "phone_no": "(785) 866-2250"
+  },
+  "White City Public Library": {
+    "city": "White City",
+    "address": "111 E Mackenzie",
+    "zip_code": "66872",
+    "phone_no": "(785) 349-5551"
+  },
+  "Whitewater Memorial Library": {
+    "city": "Whitewater",
+    "address": "118 East Topeka",
+    "zip_code": "67154",
+    "phone_no": "(316) 799-2471"
+  },
+  "Alford Branch Library": {
+    "city": "Wichita",
+    "address": "3447 S. Meridian",
+    "zip_code": "",
+    "phone_no": "(316) 337-9119"
+  },
+  "Comotara Branch Library": {
+    "city": "Wichita",
+    "address": "2244 N. Rock Road",
+    "zip_code": "",
+    "phone_no": "(316) 688-9350"
+  },
+  "Evergreen Branch Library": {
+    "city": "Wichita",
+    "address": "2601 N. Arkansas",
+    "zip_code": "",
+    "phone_no": "(316) 303-8181"
+  },
+  "Ford Rockwell Branch Library": {
+    "city": "Wichita",
+    "address": "5939 E 9th",
+    "zip_code": "",
+    "phone_no": "(316) 688-9361"
+  },
+  "Linwood Park Branch Library": {
+    "city": "Wichita",
+    "address": "1901 S Kansas",
+    "zip_code": "",
+    "phone_no": "(316) 337-9125"
+  },
+  "Maya Angelou Branch Library": {
+    "city": "Wichita",
+    "address": "3051 E. 21st",
+    "zip_code": "",
+    "phone_no": "(316) 688-9580"
+  },
+  "Orchard Park Branch Library": {
+    "city": "Wichita",
+    "address": "4808 W 9th",
+    "zip_code": "",
+    "phone_no": "(316) 337-9084"
+  },
+  "Westlink Branch Library": {
+    "city": "Wichita",
+    "address": "8515 Bekemeyer",
+    "zip_code": "",
+    "phone_no": "(316) 337-9456"
+  },
+  "Wichita Public Library": {
+    "city": "Wichita",
+    "address": "223 S. Main St",
+    "zip_code": "67202",
+    "phone_no": "(316) 261-8500"
+  },
+  "Williamsburg Community Library": {
+    "city": "Williamsburg",
+    "address": "107 S. Louisa",
+    "zip_code": "66095",
+    "phone_no": "(785) 746-5407"
+  },
+  "Wilmore Branch Library": {
+    "city": "Wilmore",
+    "address": "po box 276",
+    "zip_code": "",
+    "phone_no": "(316) 738-4464"
+  },
+  "Elm Creek Township Library": {
+    "city": "Wilsey",
+    "address": "213 North 5th St.",
+    "zip_code": "66873",
+    "phone_no": "(785) 497-2289"
+  },
+  "Lang Memorial": {
+    "city": "Wilson",
+    "address": "2405 Ave. F",
+    "zip_code": "67490",
+    "phone_no": "(785) 658-3648"
+  },
+  "Winchester Public Library": {
+    "city": "Winchester",
+    "address": "203 Fourth Street",
+    "zip_code": "66097",
+    "phone_no": "(913) 774-4967"
+  },
+  "Winfield Public Library": {
+    "city": "Winfield",
+    "address": "605 College",
+    "zip_code": "67156",
+    "phone_no": "(620) 221-4470"
+  },
+  "Yates Center Public Library": {
+    "city": "Yates Center",
+    "address": "218 N Main",
+    "zip_code": "66783",
+    "phone_no": "(620) 625-3341"
+  },
+  "Zenda Public Library": {
+    "city": "Zenda",
+    "address": "215 N. Main",
+    "zip_code": "67159",
+    "phone_no": "(620) 243-5791"
+  }
+}

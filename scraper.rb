@@ -16,7 +16,8 @@ def create_library_hash
     }
   end
 
-  libraries.to_json
+  File.open("library.json", 'w') { |file| file.write(libraries.to_json) }
+  # libraries
 end
 
 puts create_library_hash
