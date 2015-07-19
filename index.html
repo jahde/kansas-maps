@@ -17,8 +17,8 @@
   <script type="text/javascript">
     var Geocode = function(address, array) {
       var geocoder = new google.maps.Geocoder();
-
-      var obj;
+      var self = this;
+      self.locations = array;
 
       geocoder.geocode( { 'address': address}, function(results, status) {
 
@@ -26,27 +26,25 @@
           var latitude = results[0].geometry.location.lat();
           var longitude = results[0].geometry.location.lng();
 
-          var obj = { latitude, longitude};
-          return obj;
-          // debugger;
-          array.push({lat: latitude, lon: longitude})
+          self.locations.push({lat: latitude, lon: longitude});
+          // array.push({lat: latitude, lon: longitude})
         } else if (status === google.maps.GeocoderStatus.OVER_QUERY_LIMIT) {
           setTimeout(function() {
-            Geocode(address);
+            Geocode(address, array);
           }, 200);
         } else {
           // alert("Geocode was not successful for the following reason:" + status);
         }
       });
-    }
+    };
 
     $.getJSON("library.json", function(data) {
       var locations = [];
       for (var library in data) {
         var address = data[library]["address"]+", "+data[library]["city"]+", Kansas ";//+data[library]["zip_code"];
 
+        Geocode(address, locations);
         debugger;
-        var lib_obj = Geocode(address, locations);
       };
     });
 
